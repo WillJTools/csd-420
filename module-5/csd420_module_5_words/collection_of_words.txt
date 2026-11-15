@@ -1,0 +1,4 @@
+Java collections make programming easier.
+A TreeSet stores unique words and sorts words.
+Java programs can read text files.
+Secure programming uses tests and careful design.
